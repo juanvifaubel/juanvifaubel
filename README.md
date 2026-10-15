@@ -63,7 +63,7 @@ dashboards interactivos e informes que responden preguntas de negocio reales.
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvifaubel&layout=compact&hide_border=false&title_color=69b3a2&text_color=e6edf3&bg_color=0d1117&border_color=30363d&langs_count=6"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvifuabel&layout=compact&hide_border=false&title_color=251667&text_color=212529&bg_color=ffffff&border_color=69b3a2&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvifaubel&layout=compact&hide_border=false&title_color=251667&text_color=212529&bg_color=ffffff&border_color=69b3a2&langs_count=6"
     height="165"
     alt="Lenguajes más usados"
   />
