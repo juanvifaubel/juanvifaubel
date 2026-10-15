@@ -48,10 +48,10 @@ dashboards interactivos e informes que responden preguntas de negocio reales.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Azul-Marino000080&show_icons=true&hide_border=false&icon_color=69b3a2&title_color=69b3a2&text_color=e6edf3&bg_color=0d1117&border_color=30363d&ring_color=69b3a2"
+    srcset="https://github-readme-stats.vercel.app/api?username=juanvifaubel&show_icons=true&hide_border=false&icon_color=69b3a2&title_color=69b3a2&text_color=e6edf3&bg_color=0d1117&border_color=30363d&ring_color=69b3a2"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Azul-Marino000080&show_icons=true&hide_border=false&icon_color=69b3a2&title_color=251667&text_color=212529&bg_color=ffffff&border_color=69b3a2&ring_color=69b3a2"
+    src="https://github-readme-stats.vercel.app/api?username=juanvifaubel&show_icons=true&hide_border=false&icon_color=69b3a2&title_color=251667&text_color=212529&bg_color=ffffff&border_color=69b3a2&ring_color=69b3a2"
     height="165"
     alt="GitHub stats"
   />
@@ -60,10 +60,10 @@ dashboards interactivos e informes que responden preguntas de negocio reales.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Azul-Marino000080&layout=compact&hide_border=false&title_color=69b3a2&text_color=e6edf3&bg_color=0d1117&border_color=30363d&langs_count=6"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvifaubel&layout=compact&hide_border=false&title_color=69b3a2&text_color=e6edf3&bg_color=0d1117&border_color=30363d&langs_count=6"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azul-Marino000080&layout=compact&hide_border=false&title_color=251667&text_color=212529&bg_color=ffffff&border_color=69b3a2&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvifuabel&layout=compact&hide_border=false&title_color=251667&text_color=212529&bg_color=ffffff&border_color=69b3a2&langs_count=6"
     height="165"
     alt="Lenguajes más usados"
   />
