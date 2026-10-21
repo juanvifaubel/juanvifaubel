@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <!-- Header — nombre, divisor y rol traídos de Sanity -->
 <picture>
   <source
